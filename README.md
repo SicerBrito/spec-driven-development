@@ -112,8 +112,8 @@ existe justamente para que puedas ejercerlo con la información completa.
 Aplicando esto sobre una plataforma SaaS multi-tenant en producción:
 
 - **20 módulos de negocio** sostenidos por un equipo de **2 personas**
-- **~197.000 líneas** de código propio (C#, TypeScript, HTML, SCSS)
-- **146 migraciones** versionadas, todas con reversa
+- **más de 200.000 líneas** de código (C#, TypeScript, HTML, SCSS)
+- **más de 150 migraciones** versionadas, todas con reversa salvo la línea base
 - **6 planes técnicos** (~190 KB de especificación) escritos antes de implementar
 - **3 entornos** en operación continua desde 2024
 
@@ -145,3 +145,4 @@ MIT — úsalo, adáptalo, cámbiale lo que no te sirva.
 
 Escrito por [Sicer Andrés Brito Gutiérrez](https://github.com/SicerBrito) a
 partir de la práctica real de construir y operar un producto en producción.
+Los sistemas donde lo aplico están en mi portafolio: **[sicerbrito.dev](https://sicerbrito.dev)**.
